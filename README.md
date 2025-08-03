@@ -62,11 +62,11 @@ This analysis supports better planning, equitable transit investment, and the de
 | Centrality          | Closeness Centrality             | Reachability from any node             |
 | Centrality          | Betweenness Centrality           | Influence as connector                 |
 
+
 ---
 
 ## Repository Structure
 
-```bash
 ├── 0_6_0_Code_for_github_Ch6.ipynb    # Main notebook (Chapter 6 workflow)
 ├── 0_6_0_input_station_list.csv       # Station coordinates and pre-clustered Node Values
 ├── results/
@@ -94,12 +94,16 @@ This analysis supports better planning, equitable transit investment, and the de
 Install via:
 pip install osmnx pandana scikit-learn matplotlib
 
+---
+
 ##  Citation
 If using this code or analysis, please cite the corresponding academic publication:
 
 Chen, H.-H., Mumm, N., & Carlow, V. (2024).
 A computational approach for categorizing street segments in urban street networks based on topological properties. Frontiers in Built Environment.
 
+---
+
 ##　Author
 Hsiao-Hui (Helen) Chen, Dr.-Ing.
-Urban Data Scientist | Health Informatics | Spatial Network An
+Urban Data Scientist | Health Informatics | Spatial Network Analysis
